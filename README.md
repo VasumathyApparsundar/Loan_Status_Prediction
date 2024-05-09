@@ -114,6 +114,17 @@ The task is to develop a machine learning model that accurately predicts the app
 **Machine Learning Outcomes:**
 
 
+![image](https://github.com/VasumathyApparsundar/Loan_Status_Prediction/assets/167323908/90b20e78-8276-4cbc-82fa-a8ae6e122be4)
+
+**ROC Curve for Logistics Regression:**
+
+![image](https://github.com/VasumathyApparsundar/Loan_Status_Prediction/assets/167323908/d585ce18-e966-4fe2-a6af-29217af4d3a9)
+
+![image](https://github.com/VasumathyApparsundar/Loan_Status_Prediction/assets/167323908/7e3b5e98-74ed-4711-82bd-6aa399c7378e)
+
+**ROC Curve for Stratified K-Fold Classifier:**
+![image](https://github.com/VasumathyApparsundar/Loan_Status_Prediction/assets/167323908/7a99f6d9-1b24-4ca5-8167-5831d9288718)
+
 
 Based on the analysis using logistic regression and stratified k-fold classifier, we can draw the following conclusions:
 
