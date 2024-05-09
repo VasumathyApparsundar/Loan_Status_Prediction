@@ -99,5 +99,16 @@ The task is to develop a machine learning model that accurately predicts the app
 
 18. **Account Balance vs. Income:** Loan approval rates are higher when both account balance and customer income are high. This indicates that a combination of financial stability and income strength positively influences loan approval decisions.
 
+**Recommendations for Customers Applying for Loans:**
+
+1. **Consider Collateral Options:** For customers seeking secured loans, exploring collateral options such as property or valuable assets can strengthen their loan applications and potentially secure more favorable loan terms, including lower interest rates and higher loan amounts. Customers should carefully assess their assets and consider leveraging them strategically to support their borrowing needs while minimizing risk.
+
+2. **Maintain Healthy Account Balances**: Customers should prioritize building and maintaining healthy account balances, as this positively influences loan approval rates. By regularly saving and managing their finances responsibly, customers can demonstrate financial stability and improve their chances of loan approval.
+
+**Recommendations for the Bank:**
+
+1. **Diversify Loan Portfolio:** While secured loans are popular, consider offering a variety of loan products to cater to different customer needs and risk profiles. This could include unsecured loans or specialized loans targeting specific purposes like education or home improvement.
+
+2. **Enhance Gender Sensitivity:** Implement measures to promote gender equality in financial services, such as targeted marketing campaigns, gender-neutral loan products, and diversity training for staff. This can help address any potential disparities in access to financial products and services.
 
 
