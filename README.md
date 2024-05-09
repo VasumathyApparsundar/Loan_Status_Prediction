@@ -81,5 +81,23 @@ The task is to develop a machine learning model that accurately predicts the app
 
 9. **Loan Approval Insight:** The approval rate of 982 out of 1567 loans indicates that the majority of applicants were successful in obtaining loans, which could reflect well on the financial health and creditworthiness of the applicant pool.
 
+10. **Occupation & Approval:** There's a relationship between customer occupation and loan approval. Certain occupations might be perceived as more stable or reliable, increasing the chances of loan approval.
+
+11. **Income Impact:** Customer income significantly affects loan approval. Higher incomes are associated with a higher likelihood of loan approval, as indicated by the boxplot analysis.
+
+12. **Account Balance Influence:** More substantial account balances correlate with higher loan approval rates. Customers with healthier account balances may be seen as less risky borrowers.
+
+13. **Marital Status & Approval:** Married customers tend to have more approved loans compared to single or other marital status categories, suggesting marital status might play a role in loan approval decisions.
+
+14. **Education Level & Approval:** Customers with a matriculate education level have more approved loans than others, indicating that education might influence loan approval outcomes.
+
+15. **Credit Score Impact:** Credit score doesn't significantly affect the loan approval process. Other factors like income and account balance might carry more weight in decision-making.
+
+16. **Asset Value & Approval:** Higher asset values increase the likelihood of loan approval. Valuable assets may serve as collateral or indicate financial stability, boosting approval chances.
+
+17. **Income vs. Loan Amount:** Loans are more likely to be approved when the loan amount is lower relative to the customer's income. This suggests lenders prefer conservative borrowing relative to income levels.
+
+18. **Account Balance vs. Income:** Loan approval rates are higher when both account balance and customer income are high. This indicates that a combination of financial stability and income strength positively influences loan approval decisions.
+
 
 
