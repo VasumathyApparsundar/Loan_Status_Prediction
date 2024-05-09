@@ -111,4 +111,20 @@ The task is to develop a machine learning model that accurately predicts the app
 
 2. **Enhance Gender Sensitivity:** Implement measures to promote gender equality in financial services, such as targeted marketing campaigns, gender-neutral loan products, and diversity training for staff. This can help address any potential disparities in access to financial products and services.
 
+**Machine Learning Outcomes:**
+
+
+
+Based on the analysis using logistic regression and stratified k-fold classifier, we can draw the following conclusions:
+
+1. **Model Performance:** The logistic regression model achieved an accuracy of approximately 72.61% and an F1-score of around 81.00%. Meanwhile, the stratified k-fold classifier yielded a slightly higher mean accuracy of about 74.67% and a mean F1-score of approximately 82.81%.
+
+2. **Prediction Accuracy:** Both models demonstrated reasonable accuracy in predicting loan status, with the stratified k-fold classifier performing slightly better overall. This suggests that the models are capable of distinguishing between approved and rejected loan applications with a moderate level of accuracy.
+
+3. **Model Robustness:** The use of stratified k-fold cross-validation helps to improve the robustness of the model evaluation by reducing the risk of overfitting and providing more reliable performance metrics. This approach ensures that the model's performance is consistent across different subsets of the data.
+
+**Conclusion:**
+
+In summary, the project demonstrates the feasibility of using logistic regression and stratified k-fold cross-validation for predicting loan status based on the available dataset. While the models exhibit reasonable performance, ongoing refinement and validation are essential for ensuring their effectiveness in real-world applications.
+
 
